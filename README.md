@@ -221,9 +221,9 @@ Tester :
 
 |Saisie	| Résultat |
 --------------------
-|-5	| Refusée|
-|25	| Refusée|
-|15	| Acceptée|
+|-5	    | Refusée  |
+|25    	| Refusée  |
+|15	    | Acceptée |
 
 Test d'un nombre d'élèves
 
