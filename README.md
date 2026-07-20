@@ -220,7 +220,7 @@ Intervalle :
 Tester :
 
 |Saisie	| Résultat |
------------------
+--------------------
 |-5	| Refusée|
 |25	| Refusée|
 |15	| Acceptée|
@@ -233,11 +233,11 @@ Intervalle :
 
 Tester :
 
-|Saisie	|Résultat|
------------------
-|0	| Refusée|
-|35	| Refusée|
-|20	| Acceptée|
+|Saisie	|Résultat  |
+-------------------
+|   0  | Refusée  |
+| 35	  | Refusée  |
+| 20	  | Acceptée |
 
 
 ## Partie 4 – Programme principal de test
